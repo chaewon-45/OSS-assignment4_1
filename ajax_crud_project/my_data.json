@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Jerry",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Tom",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "age": 22
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "cname": "Open source studio",
+      "credit": 3
+    },
+    {
+      "id": 2,
+      "cname": "Programming studio",
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "cname": "Operating System",
+      "credit": 3
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "tname": "Alice",
+      "subject": "Programming"
+    },
+    {
+      "id": 2,
+      "tname": "Bob",
+      "subject": "Database"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "dname": "Computer Science",
+      "location": "Building A"
+    },
+    {
+      "id": 2,
+      "dname": "Software Engineering",
+      "location": "Building B"
+    }
+  ]
+}
